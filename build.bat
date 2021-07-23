@@ -1,0 +1,1 @@
+docker build -t bde2020/hive-metastore-postgresql:3.1.0-postgresql9.6.22 .
